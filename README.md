@@ -1,3 +1,3 @@
-## Full Stack Open University of Helsinki
+# Full Stack Open University of Helsinki
 
 Exercises of the MERN stack course
