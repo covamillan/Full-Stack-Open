@@ -1,3 +1,7 @@
-# Part1
+# Part1 exercises
 
-## Courseinfo exercise
+## Courseinfo
+
+## Unicafe
+
+## Anecdotes
